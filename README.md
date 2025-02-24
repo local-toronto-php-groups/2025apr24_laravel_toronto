@@ -1,5 +1,14 @@
 # Laravel Toronto meet-up, Apr 24/2025
 Laravel Toronto meet-up, on Apr 24, 2025 (NativePHP for iOS)
+
+##
+A very special THANK YOU to Simon Hamp, who has graciously granted us a temporary EAP licence to NativePHP for iOS, specifically for this meet-up. 
+
+##
+In December 2023 (was it a year-or-so ago already?!), one of our local devs did an incredible live demo of NativePHP at that meet-up. The question came up if it applied to mobile development? The answer was no, but the idea of mobile development was electric. Now, the answer is "EAP"! 
+
+Check out the links below!
+
 ##
 <br>
 
