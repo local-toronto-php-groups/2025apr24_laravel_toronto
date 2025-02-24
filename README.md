@@ -1,7 +1,3 @@
-# 2025apr24_laravel_toronto
-
-Laravel Toronto meet-up, on Apr 24, 2025 (NativePHP for iOS)
-
 # Laravel Toronto meet-up, Apr 10/2025
 Laravel Toronto meet-up, on Apr 24, 2025 (NativePHP for iOS)
 ##
