@@ -16,10 +16,14 @@ We are fortunate that one of our local Artisans is taking on the task of playing
 
 As well, Simon may join us towards the end of our meet-up for some Q&A. 
 
+Schedule:
+6:00pm to 7:00pm: meet-and-greet
+7:00pm to 9:00pm: Laravel Cloud demo + Q&A
+
 I do not usually exhort our local Artisans to actually click the links that I list. I put them there for reference. However, this time, I am exhorting you to go through the links before our meet-up. 
 
 ##
-Meetup.com listing: 
+Meetup.com listing: [https://www.meetup.com/laravel-toronto/events/306398116/](https://www.meetup.com/laravel-toronto/events/306398116/)
 
 ##
 Links:
