@@ -26,3 +26,4 @@ Links:
 - [LaraconEU 2025 talk: Simon Hamp on Building Mobile Apps with PHP](https://www.youtube.com/watch?v=CsM66a0koAM)
 - [(YouTube) Laravel News - NativePHP for iOS with Simon Hamp](https://www.youtube.com/watch?v=xfeLgTmq4Jg)
 - [(Podcast) "Simon Shares" episode 25: NativePHP (for iOS) and other things (Feb 20, 2025)](https://simonhamp.transistor.fm/25)
+- [(YouTube) APPLE APPROVED MY PHP APP ON IOS!!](https://www.youtube.com/watch?v=sepSVW2sHhM)
