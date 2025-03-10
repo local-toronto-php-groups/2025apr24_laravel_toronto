@@ -32,3 +32,4 @@ Links:
 - [(YouTube) Laravel News - NativePHP for iOS with Simon Hamp](https://www.youtube.com/watch?v=xfeLgTmq4Jg)
 - [(Podcast) "Simon Shares" episode 25: NativePHP (for iOS) and other things (Feb 20, 2025)](https://simonhamp.transistor.fm/25)
 - [(YouTube) APPLE APPROVED MY PHP APP ON IOS!!](https://www.youtube.com/watch?v=sepSVW2sHhM)
+- [iOS 19 to be one of Apple’s biggest iPhone updates ever](https://9to5mac.com/2025/03/10/ios-19-update-new-design-features-and-more/)
