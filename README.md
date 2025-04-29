@@ -51,12 +51,6 @@ Links:
 ![Bloor Street looking east from Holt Renfrew](/IMG_0265.png)
 (Bloor Street looking east from Holt Renfrew)
 
-![Bloor Street looking east from Holt Renfrew](/IMG_0265.png)
-(Bloor Street looking east from Holt Renfrew)
-
-![Bloor Street West at Bay, Manulife Centre](/IMG_0262.png)
-(Bloor Street West at Bay, Manulife Centre)
-
 ![Bloor Street West at Bay, Manulife Centre](/IMG_0262.png)
 (Bloor Street West at Bay, Manulife Centre)
 
