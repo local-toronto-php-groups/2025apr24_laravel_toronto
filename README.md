@@ -36,3 +36,29 @@ Links:
 - [iOS 19 to be one of Apple’s biggest iPhone updates ever](https://9to5mac.com/2025/03/10/ios-19-update-new-design-features-and-more/)
 - [(YouTube) Building NativePHP for Mobile: Lessons learned making PHP work on iOS with Simon Hamp](https://www.youtube.com/watch?v=Ekgn62aEK58)
 - [NativePHP for desktop v1 is finally here!](https://github.com/orgs/NativePHP/discussions/547)
+
+##
+
+![Kwame, Bob, Tolga](/IMG_0279.png)
+(Kwame, Bob, Tolga)
+
+![Kwame showing his demo app on iPhone](/IMG_0280.png)
+(Kwame showing his demo app on iPhone)
+
+![Kwame presenting](/IMG_0281.png)
+(Kwame presenting)
+
+![Bloor Street looking east from Holt Renfrew](/IMG_0265.png)
+(Bloor Street looking east from Holt Renfrew)
+
+![Bloor Street looking east from Holt Renfrew](/IMG_0265.png)
+(Bloor Street looking east from Holt Renfrew)
+
+![Bloor Street West at Bay, Manulife Centre](/IMG_0262.png)
+(Bloor Street West at Bay, Manulife Centre)
+
+![Bloor Street West at Bay, Manulife Centre](/IMG_0262.png)
+(Bloor Street West at Bay, Manulife Centre)
+
+![Bloor and Yonge Streets, "The One" under construction, to be Canada's tallest tower](/IMG_0259.png)
+(Bloor and Yonge Streets, "The One" under construction, to be Canada's tallest tower)
