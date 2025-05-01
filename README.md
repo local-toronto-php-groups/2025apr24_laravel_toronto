@@ -29,13 +29,14 @@ Meetup.com listing: [https://www.meetup.com/laravel-toronto/events/306398116/](h
 Links:
 - [Kwame's short article on LinkedIn about his presentation, touching on the tech I used and the support from the community](https://www.linkedin.com/pulse/rise-dead-language-kwame-twum-asamoah-boateng-uroaf)
 
-  <br>https://www.youtube.com/watch?v=6jS_0FKW_Bo
+  <br>
 
 - [NativePHP website](https://nativephp.com)
 - [NativePHP for iOS and Android website](https://nativephp.com/mobile)
 - [LaraconEU 2025 talk: Simon Hamp on Building Mobile Apps with PHP](https://www.youtube.com/watch?v=CsM66a0koAM)
 - [(YouTube) Laravel News - NativePHP for iOS with Simon Hamp](https://www.youtube.com/watch?v=xfeLgTmq4Jg)
 - [(Podcast) "Simon Shares" episode 25: NativePHP, databases and magic APIs (Feb 20, 2025)](https://simonhamp.transistor.fm/25)
+- [(YouTube) Websockets and real-time events in NativePHP for mobile](https://www.youtube.com/watch?v=6jS_0FKW_Bo)
 - [(Podcast) "Simon Shares" episode 27: What do you mean "it's not free"!!? (March 27, 2025)](https://simonhamp.transistor.fm/27)
 - [(YouTube) APPLE APPROVED MY PHP APP ON IOS!!](https://www.youtube.com/watch?v=sepSVW2sHhM)
 - [iOS 19 to be one of Apple’s biggest iPhone updates ever](https://9to5mac.com/2025/03/10/ios-19-update-new-design-features-and-more/)
