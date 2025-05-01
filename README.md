@@ -27,6 +27,10 @@ Meetup.com listing: [https://www.meetup.com/laravel-toronto/events/306398116/](h
 
 ##
 Links:
+- [Kwame's short article on LinkedIn about his presentation, touching on the tech I used and the support from the community](https://www.linkedin.com/pulse/rise-dead-language-kwame-twum-asamoah-boateng-uroaf)
+
+  <br>
+
 - [NativePHP website](https://nativephp.com)
 - [NativePHP for iOS and Android website](https://nativephp.com/mobile)
 - [LaraconEU 2025 talk: Simon Hamp on Building Mobile Apps with PHP](https://www.youtube.com/watch?v=CsM66a0koAM)
