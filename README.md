@@ -27,6 +27,7 @@ Meetup.com listing: [https://www.meetup.com/laravel-toronto/events/306398116/](h
 
 ##
 [![YouTube video of this meet-up](https://img.youtube.com/vi/b-vUT5U7rwg/0.jpg)](https://www.youtube.com/watch?v=b-vUT5U7rwg)
+(YouTube video of this meet-up)
 
 ##
 Links:
