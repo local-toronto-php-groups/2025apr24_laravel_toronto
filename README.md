@@ -26,6 +26,9 @@ I do not usually exhort our local Artisans to actually click the links that I li
 Meetup.com listing: [https://www.meetup.com/laravel-toronto/events/306398116/](https://www.meetup.com/laravel-toronto/events/306398116/)
 
 ##
+[![YouTube video of this meet-up](https://img.youtube.com/vi/b-vUT5U7rwg/0.jpg)](https://www.youtube.com/watch?v=b-vUT5U7rwg)
+
+##
 Links:
 - [Kwame's short article on LinkedIn about his presentation, touching on the tech I used and the support from the community](https://www.linkedin.com/pulse/rise-dead-language-kwame-twum-asamoah-boateng-uroaf)
 
