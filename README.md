@@ -31,6 +31,12 @@ Meetup.com listing: [https://www.meetup.com/laravel-toronto/events/306398116/](h
 
 ##
 Links:
+
+Simon Hamp publiished a brilliant episode about the economics of NativePHP (Desktop and Mobile). Which is also an outstanding first-person real-time perspective on the economics of Open Source Software. There is a very obvious passion and dedication to OSS, and to PHP. I urge you to listen to this episode!
+- [(Podcast) "Simon Share" episode 28: Pillars (May 17, 2025)](https://simonhamp.transistor.fm/28)
+
+<br> 
+
 - [Kwame's short article on LinkedIn about his presentation, touching on the tech I used and the support from the community](https://www.linkedin.com/pulse/rise-dead-language-kwame-twum-asamoah-boateng-uroaf)
 
   <br>
