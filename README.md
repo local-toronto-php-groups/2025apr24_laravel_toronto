@@ -52,6 +52,7 @@ Simon Hamp publiished a brilliant episode about the economics of NativePHP (Desk
 - [iOS 19 to be one of Apple’s biggest iPhone updates ever](https://9to5mac.com/2025/03/10/ios-19-update-new-design-features-and-more/)
 - [(YouTube) Building NativePHP for Mobile: Lessons learned making PHP work on iOS with Simon Hamp](https://www.youtube.com/watch?v=Ekgn62aEK58)
 - [NativePHP for desktop v1 is finally here!](https://github.com/orgs/NativePHP/discussions/547)
+- [(YouTube) NativePHP presentation at PHPTek 2025](https://www.youtube.com/watch?v=pRZmrPa6nYk)
 
 ##
 
